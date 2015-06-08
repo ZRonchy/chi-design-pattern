@@ -12,12 +12,10 @@ public class Namer {
 	protected String first;
 	//stored here
 	public String getFirst() {
-	return first;
-	//return first name
+		return first;
 	}
 	public String getLast() {
-	return last;
-	//return last name
+		return last;
 	}
 }
 
